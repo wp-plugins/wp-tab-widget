@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Tab Widget
-Plugin URI: http://mythemeshop.com/
+Plugin URI: http://mythemeshop.com/plugins/wp-tab-widget/
 Description: WP Tab Widget is the AJAXified plugin which loads content by demand, and thus it makes the plugin incredibly lightweight.
 Author: MyThemeShop
 Version: 1.1
